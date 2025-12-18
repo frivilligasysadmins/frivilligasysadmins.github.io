@@ -1,0 +1,4 @@
+site_name: Frivilliga Systemadministratörer
+theme:
+  name: terminal
+  palette: gruvbox_dark
